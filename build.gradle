@@ -1,0 +1,2 @@
+// Root build.gradle — empty by design with modern pluginManagement in settings.gradle
+// Keep it minimal to avoid duplicate tasks/plugins.
